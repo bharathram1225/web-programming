@@ -5,10 +5,7 @@ h1{
 	font-weight: bolder;
 
 }
-body{
-	background:linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
-	background-size: cover;
-}
+
 .txt{
 font-family: "times new roman";
 color:#000000;
